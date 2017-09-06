@@ -1,0 +1,17 @@
+{
+    "instances": [
+        {
+            "tag": "flinkster",
+            "meta": {
+                "latitude": 50.11095,
+                "city": "Frankfurt",
+                "name": "Call-A-Bike Frankfurt",
+                "longitude": 8.66734,
+                "country": "DE"
+            },
+            "city_id": 19
+        }
+    ],
+    "system": "flinkster",
+    "class": "Flinkster"
+}
