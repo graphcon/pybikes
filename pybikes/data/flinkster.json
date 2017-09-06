@@ -8,8 +8,7 @@
                 "name": "Call-A-Bike Frankfurt",
                 "longitude": 8.66734,
                 "country": "DE"
-            },
-            "city_id": 19
+            }
         }
     ],
     "system": "flinkster",
