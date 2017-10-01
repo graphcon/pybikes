@@ -44,7 +44,7 @@ class FlinksterStation(BikeShareStation):
 
         self.name = info['rentalObject']['attributes']['licenseplate']
         self.bikes = 1
-        self.free = True
+        self.free = 1
         self.extra = {
             'bookingLink': info['_links'][0]['href'],
             'rentalModel': info['rentalObject']['rentalModel']
